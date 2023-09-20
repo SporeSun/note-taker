@@ -5,7 +5,7 @@ const { v4: uuidv4 } = require('uuid');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
-const dbFilePath = path.join(__dirname, 'db/db.json');
+const dbFilePath = path.join(__dirname, './db/db.json');
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
