@@ -23,7 +23,8 @@
   
   ## Usage
 
-  Video URL: 
+  Deployed URL: https://nameless-headland-63865-2a3e35628b63.herokuapp.com/
+  
   Click "Get Started" button. Type your note's title and the note itself. Hit the save button to save in the sidebar. Hit the plus sign to make a new note. Click on any of the titles in the sidebar to access old notes.
 
   ## License
